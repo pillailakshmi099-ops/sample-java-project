@@ -1,5 +1,6 @@
 public class Hello {
     public static void main(String[] args) {
-        System.out.println("Hello from Jenkins GitHub Job!");
+        System.out.println("Hello from Poll SCM Trigger!");
     }
+
 }
